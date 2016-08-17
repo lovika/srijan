@@ -47,8 +47,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -401,7 +401,7 @@
       <workItem from="1471016216633" duration="1428000" />
       <workItem from="1471017725801" duration="1199000" />
       <workItem from="1471088232343" duration="823000" />
-      <workItem from="1471395319050" duration="1327000" />
+      <workItem from="1471395319050" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="project updated">
       <created>1471016307618</created>
@@ -452,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471396447789</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated readme&#10;">
+      <created>1471396658724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1471396658724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4777000" />
+    <option name="totallyTimeSpent" value="5224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -481,6 +488,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -498,7 +508,8 @@
     <MESSAGE value="Welcome Srijan Text Added" />
     <MESSAGE value="Updated Package.json" />
     <MESSAGE value="changes for himani's pull request. bugs removed .code cleaned" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes for himani's pull request. bugs removed .code cleaned" />
+    <MESSAGE value="updated readme&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -653,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
